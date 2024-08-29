@@ -1,0 +1,114 @@
+[
+    {
+        "id":"1",
+        "name": "HTML5 ",
+        "Title" : "This is story book for all students",
+        "Price" :"$0",
+        "category":"Free",
+        "Image" : "https://static3.makeuseofimages.com/wordpress/wp-content/uploads/2017/09/HTML-Effects-Featured.jpg"
+
+    },
+    {
+        "id":"2",
+        "name": "CSS3 ",
+        "Title" : "This is story book for all students",
+        "Price" :"$0",
+        "category":"Free",
+         "Image" : "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+
+    },
+    {
+        "id":"3",
+        "name": "Javascript ",
+        "Title" : "This is story book for all students",
+        "Price" :"$0",
+        "category":"Free",
+        "Image" : "https://i0.wp.com/ciberninjas.com/wp-content/uploads/2022/08/javascript-logo-maxima-resolucion.webp?resize=1200%2C675&ssl="
+
+
+    },
+    {
+        "id":"4",
+        "name": "React ",
+        "Title" : "This is story book for all students",
+        "Price" :"$30",
+        "category":"paid",
+        "Image" : "https://www.agiratech.com/wp-content/uploads/2020/02/Tips-for-React-JS-developers.jpeg"
+
+
+    },
+    {
+        "id":"5",
+        "name": "Tailwind.css ",
+        "Title" : "This is story book for all students",
+        "Price" :"$0",
+        "category":"Free",
+        "Image" : "https://tailwindui.com/img/og-image.png"
+
+
+    },
+    {
+        "id":"6",
+        "name": "Node.js ",
+        "Title" : "This is story book for all students",
+        "Price" :"$20",
+        "category":"Paid",
+        "Image" : "https://pluspng.com/img-png/nodejs-logo-vector-png-desktop-background-2560.png"
+
+    },
+    {
+        "id":"7",
+        "name": "Express.js ",
+        "Title" : "This is story book for all students",
+        "Price" :"$10",
+        "category":"paid",
+        "Image" : "https://www.dongee.com/tutoriales/content/images/2023/11/image-59.png"
+
+
+    },
+    {
+        "id":"8",
+        "name": "MonGoDb ",
+        "Title" : "This is story book for all students",
+        "Price" :"$40",
+        "category":"Paid",
+        "Image" : "https://www.infraveo.com/wp-content/uploads/2022/09/MongoDB-Blog-Image.jpg"
+
+    },
+    {
+        "id":"9",
+        "name": "Bootstrap ",
+        "Title" : "This is story book for all students",
+        "Price" :"$0",
+        "category":"Free",
+        "Image" : "https://www.springboard.com/blog/wp-content/uploads/2020/07/what-is-bootstrap-in-programming-a-web-development-beginners-guide.jpg"
+
+    },
+    {
+        "id":"10",
+        "name": "Next.js ",
+        "Title" : "This is story book for all students",
+        "Price" :"$60",
+        "category":"Paid",
+        "Image" : "https://www.nextjs.cn/static/images/nextjs-big-logo.png"
+
+    },
+    {
+        "id":"11",
+        "name": "Java",
+        "Title" : "This is story book for all students",
+        "Price" :"$35",
+        "category":"paid",
+        "Image" : "https://wallpapercave.com/wp/wp7250161.png"
+
+    },
+    {
+        "id":"12",
+        "name": "React-Native ",
+        "Title" : "This is story book for all students",
+        "Price" :"$30",
+        "category":"Paid",
+        "Image" : "https://wallpapercave.com/wp/wp6953020.jpg"
+
+    }
+]
